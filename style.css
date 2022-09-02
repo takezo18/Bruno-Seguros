@@ -1,0 +1,37 @@
+#navbar-selectors ul a{
+    font-size: larger;
+    color: #212528;
+    transition: 0.5s;
+}
+
+#navbar-selectors ul a:hover{
+    color: #FF141A;
+
+}
+
+header{
+    border-bottom: 3px solid #FF141A;
+    
+}
+
+#carousel-elements h5{
+    text-shadow: 1px 1px 15px black;
+}
+
+#carousel-elements p{
+    text-shadow: 1px 1px 20px black;
+}
+
+#carousel-elements p:hover{
+    text-decoration: underline;
+}
+
+#product-poster:hover{
+    opacity: 0.8;
+    transition: 0.3s;
+}
+
+#product-poster-text:hover{
+    color: black;
+    transition: 0.5s;
+}
